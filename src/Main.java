@@ -1,5 +1,4 @@
-//File saves as a pdf for grading.
-//IntelliJ IDEA was used for the assignment.
+
 
 //Import for array and scanner package.
 import java.util.*;
@@ -149,3 +148,5 @@ public class Main {
         }
     }
 }
+
+
